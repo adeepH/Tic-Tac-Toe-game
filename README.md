@@ -22,4 +22,4 @@ This project requires the following libraries to be installed.Please check these
 # Abstract
  - `tictactoe.py` 
   uses a Deep Neural Network in order to predict the best move possible.Here we run a simulation of around 10000 games and learn from the outcomes of the generated games. The model then predicts the best move based on the simulation of the 10000 previous games it had seen, i.e,  from the data.The model thus learns from the data and delivers a validation accuracy of around 64% on 100 epochs.Higher accuracies can be achieved with robust models such as `Deep Q-Learning` and `Reinforcement Learning`.
-- `deep_tic_tac_toe.py` uses a Deep Q-learning.
+- `deep_tic_tac_toe.py` uses a Deep Q-learning approach
