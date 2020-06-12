@@ -1,0 +1,7 @@
+tensorflow>=1.4.0
+numpy
+csv
+tabulate
+matplotlib
+abc
+pathlib
