@@ -14,9 +14,9 @@ Here is the implementation of a classic example of a Markov Decision Process, a 
 This project requires the following libraries to be installed.Please check these out if you don't have one of these (else follow the previous installation process):
 - [NumPy](http://www.numpy.org/)
 - [matplotlib](http://matplotlib.org/)
--[Tensorflow](https://www.tensorflow.org/)
--[Keras](https://keras.io/)
--[tabulate](https://pypi.org/project/tabulate/)
+- [Tensorflow](https://www.tensorflow.org/)
+- [Keras](https://keras.io/)
+- [tabulate](https://pypi.org/project/tabulate/)
 
 # Abstract
 `tictactoe.py` uses a Deep Neural Network in order to predict the best move possible.
